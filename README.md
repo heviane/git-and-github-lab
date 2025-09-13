@@ -29,4 +29,8 @@ O conteúdo de estudos foi organizado em três níveis de dificuldade. Comece pe
 
 ## References
 
+- [Documentação Oficial do GitHub](https://docs.github.com)
+- [Documentação Oficial do Git](https://git-scm.com/)
+- [Repositório Oficial do Git](https://github.com/git/git)
+- [E-book Oficial sobre Git](https://git-scm.com/book/en/v2)
 - [Jornada Gamificada de Git e GitHub](https://github.com/elidianaandrade/git-github-learning-quest)
