@@ -14,6 +14,6 @@ Além de hospedar repositórios Git, o GitHub oferece uma vasta gama de funciona
 
 - [ ] Entender o fluxo de trabalho com Fork e Pull Request.
 - [ ] Configurar branches protegidas (Protected Branches).
-- [ ] Criar um workflow simples com GitHub Actions.
-- [ ] Enviar commits assinados para o GitHub.
-- [ ] Publicar um site simples usando GitHub Pages.
+- [X] Criar um workflow simples com GitHub Actions.
+- [X] [Enviar commits assinados para o GitHub](./github/signed-commits.md).
+- [X] Publicar um site simples usando GitHub Pages.

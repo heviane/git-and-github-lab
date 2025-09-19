@@ -115,3 +115,21 @@ git commit -S -m "docs: Atualiza documentação"
 ```
 
 Após enviar o commit para o GitHub (`git push`), você verá o selo "Verified" ao lado dele.
+
+## Passo a Passo para Desfazer Commits Assinados
+
+Para desabilitar a assinatura GPG e fazer o Git voltar ao comportamento padrão, execute os seguintes comandos no seu terminal:
+
+Desabilitar a assinatura automática de commits: Este comando remove a configuração que obriga o Git a assinar todos os commits.
+
+```bash
+git config --global --unset commit.gpgsign
+```
+
+Remover a associação da chave de assinatura: Este comando desvincula a sua chave GPG do Git.
+
+```bash
+git config --global --unset user.signingkey
+```
+
+Pronto! Após executar esses dois comandos, seu Git não tentará mais assinar os commits automaticamente. Você poderá fazer commits normalmente, como antes.

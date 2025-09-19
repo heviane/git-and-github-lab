@@ -7,9 +7,9 @@ Bem-vindo(a) à fronteira do conhecimento em Git e GitHub. Aqui você aprenderá
 ## Automação e CI/CD
 
 - [ ] Introdução ao GitHub Actions: O que são workflows, jobs e actions?
-- [ ] Criando um workflow simples (ex: rodar testes a cada push)
+- [X] Criando um workflow simples (ex: rodar testes a cada push)
 - [ ] Usando secrets para proteger informações sensíveis
-- [ ] Publicando um pacote ou site com GitHub Actions
+- [X] Publicando um pacote ou site com GitHub Actions
 
 ## Ferramentas de Manutenção e Análise
 

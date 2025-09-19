@@ -8,7 +8,7 @@ Parabéns por chegar até aqui! Nesta trilha, você aprofundará seus conhecimen
 
 - [ ] Reorganizando commits com `git rebase` (interativo)
 - [ ] Aplicando um commit específico de outra branch (`git cherry-pick`)
-- [ ] Desfazendo alterações e revertendo commits (`git revert` vs `git reset`)
+- [X] Desfazendo alterações: `git revert` vs `git reset`
 - [ ] Encontrando commits perdidos ou deletados (`git reflog`)
 
 ## Ferramentas do Dia a Dia
