@@ -15,6 +15,7 @@
 - [Documentação Oficial do GitHub](https://docs.github.com)
 - [GitHub Quick Start](https://github.com/digitalinnovationone/github-quickstart)
 - [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+- [Gerador de Readme Profile](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 ## GitBooks
 
